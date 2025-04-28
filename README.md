@@ -1,1 +1,2 @@
-# gettingStartet2025
+#Example Repository
+This is sa simple repo
